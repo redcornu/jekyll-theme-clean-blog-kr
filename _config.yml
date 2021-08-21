@@ -8,6 +8,10 @@ url:                "https://honeyoutube.com"
 locale:             "ko_KR"
 thumbnail:          "/img/honeytubethum.png"
 
+# 블로그 disqus shortname
+disqus:
+  shortname: honeyoutube
+
 # Social Profiles
 twitter_username:   twitter_username
 instagram_username: instagram_username

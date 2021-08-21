@@ -3,7 +3,7 @@ layout: post
 permalink: /youtubebegin.md/
 title: '유튜브 성장 시키려면 무엇을 해야할까요?'
 date: 2021-08-15 11:20:00 +09:00
-feature: /img/honetubethum.png
+feature: /img/honeytubethum.png
 categories:
   - youtube
 tags:
