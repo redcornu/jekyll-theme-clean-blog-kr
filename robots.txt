@@ -1,0 +1,15 @@
+User-agent: Googlebot
+
+Disallow: /
+
+User-agent: *
+
+Disallow: /admin/
+
+Disallow: /admin_page/
+
+Disallow: /*.xls$
+
+Disallow: /*.pdf$
+
+Disallow: /*.hwp$
