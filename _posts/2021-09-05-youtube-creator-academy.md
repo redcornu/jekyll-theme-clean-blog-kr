@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /youtube-creator-academy.md/
+permalink: /youtube-creator-academy/
 title: '꿀튜브 | 채널을 키우고 싶으면 유튜브 크리에이터 아카데미를 잘쓰자'
 date: 2021-09-05 11:20:00 +09:00
 feature: /img/posts/07/img1.png
