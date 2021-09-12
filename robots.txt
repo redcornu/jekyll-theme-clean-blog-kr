@@ -2,3 +2,6 @@ User-agent: *
 Allow: /
 
 Sitemap: https://honeyoutube.com/sitemap.xml
+
+
+#DaumWebMasterTool:e12416e2d99055ed0c5b69e38bacebd23ccec47e5f6423561baa6a220f8df7d7:yW+jE+HZqfx5FHikzuVRfw== 
