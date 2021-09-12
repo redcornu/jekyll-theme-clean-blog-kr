@@ -1,15 +1,4 @@
-User-agent: Googlebot
-
-Disallow: /
-
 User-agent: *
+Allow: /
 
-Disallow: /admin/
-
-Disallow: /admin_page/
-
-Disallow: /*.xls$
-
-Disallow: /*.pdf$
-
-Disallow: /*.hwp$
+Sitemap: https://honeyoutube/sitemap.xml
