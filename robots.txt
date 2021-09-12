@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://honeyoutube/sitemap.xml
+Sitemap: https://honeyoutube.com/sitemap.xml
