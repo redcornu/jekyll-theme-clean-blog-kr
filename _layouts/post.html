@@ -52,3 +52,11 @@ layout: default
   </article>
 
   {% include disqus.html %}
+
+  <!-- 포스트 데이터 레이어 post datalayer-->
+  <script type="text/javascript">
+    dataLayer.push({
+    'event':'view_post',
+    'pageTitle' : '{{ page.title }}'
+    });
+  </script>
