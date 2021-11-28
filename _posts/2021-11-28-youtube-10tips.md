@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /youtube-experience/
+permalink: /youtube-10tips/
 title: '구글이 알려주는 유튜브 꿀팁 10개'
 date: 2021-11-28 11:20:00 +09:00
 feature: /img/posts/10/1.jpeg
