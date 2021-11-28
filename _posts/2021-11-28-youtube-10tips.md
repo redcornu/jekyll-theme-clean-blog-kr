@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /youtube-experience/
-title: '유튜브 채널의 브랜딩은 무엇일까? 어떻게 할까?'
+title: '구글이 알려주는 유튜브 꿀팁 10개'
 date: 2021-11-28 11:20:00 +09:00
 feature: /img/posts/10/1.jpeg
 categories:
@@ -14,7 +14,6 @@ tags:
   - 브랜딩
 description: '구글이 알려주는 유튜브 꿀팁 10개'
 ---
-1.jpeg
 
 <h1>유튜브 채널의 브랜딩은 무엇일까? 어떻게 할까?</h1>
 
