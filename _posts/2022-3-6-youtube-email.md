@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /youtube_start/
+permalink: /youtube_email/
 title: '유튜브로 업무 이메일을 사용한다면 봐야할 팁'
 date: 2022-1-28 11:20:00 +09:00
 feature: /img/posts/13/1.png
