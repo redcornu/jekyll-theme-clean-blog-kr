@@ -3,7 +3,7 @@ layout: post
 permalink: /yotube-bigginer/
 title: '유튜브 초보자를 위한 팁'
 date: 2021-08-15 11:20:00 +09:00
-feature: /img/posts/05/img1.png
+feature: /img/posts/14/img1.jpg
 categories:
   - youtube
 tags:
