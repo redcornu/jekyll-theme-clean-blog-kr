@@ -2,7 +2,7 @@
 layout: post
 permalink: /youtube-beginner/
 title: '유튜브 초보자를 위한 팁'
-date: 2022-06-13 11:20:00 +09:00
+date: 2022-06-12 11:20:00 +09:00
 feature: /img/posts/14/1.jpg
 categories:
   - youtube
